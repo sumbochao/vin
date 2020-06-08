@@ -1,0 +1,1 @@
+[{"__type__":"cc.Prefab","_name":"audio-node","data":{"__id__":1}},{"__type__":"cc.Node","_name":"audio-node","_components":[{"__type__":"afe9arSqlJDBJ5Cc1NbcT2s","node":{"__id__":1},"clickAudioClip":{"__uuid__":"cc+97R4zpLS4RFwTIDnp0b"}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__id__":0},"fileId":"61zInTDatJI7/10Ti84ttE"}}]
